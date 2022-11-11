@@ -1,0 +1,65 @@
+
+Name: dushyant 
+Marks = 46 
+Fees = 23250
+Date of Birth: 02/12/2002 
+
+Name: Dushyant 
+Marks = 6422376 
+Fees = 4200395
+Date of Birth: Kumar 
+
+Name: Dushyant 
+Marks = 20 
+Fees = 4200395
+Date of Birth: bme046 
+
+Name: Dushyant 
+Marks = 46 
+Fees = 23250
+Date of Birth: 02/12/2002 
+
+Name: Dushyant 
+Marks = 46 
+Fees = 23250
+Date of Birth: 02/12/2002 
+
+Name: Abhishek 
+Marks = 71 
+Fees = 30000
+Date of Birth: 22/01/2002 
+
+Name: ritu 
+Marks = 76 
+Fees = 23250
+Date of Birth: 14/11/2000 
+
+Name: Ritu 
+Marks = 76 
+Fees = 50075
+Date of Birth: 14/11/2000 
+
+Name: Ritu 
+Marks = 76 
+Fees = 14
+Date of Birth: /11/1990 
+
+Name: Ritu 
+Marks = 76 
+Fees = 50075
+Date of Birth: 14/11/1990 
+
+Name: Ritik 
+Marks = 73 
+Fees = 20000
+Date of Birth: 11/12/2006 
+
+Name: Aditya 
+Marks = 123 
+Fees = 10000
+Date of Birth: 01/01/2000 
+
+Name: Aditi 
+Marks = 77 
+Fees = 10000
+Date of Birth: 10/10/2000 
